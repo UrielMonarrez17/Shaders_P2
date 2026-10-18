@@ -4,6 +4,33 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChainedCinematic/Scene_1_Waves.unity
+    guid: adbfb54250eb45709da99d353d5ed076
+  - enabled: 1
+    path: Assets/Scenes/ChainedCinematic/Scene_2_Hologram.unity
+    guid: 10b3c61d54314408952136ec00e5f6f2
+  - enabled: 1
+    path: Assets/Scenes/ChainedCinematic/Scene_3_Extrude.unity
+    guid: 82c9ec03564047a2a349437943914c0d
+  - enabled: 1
+    path: Assets/Scenes/ChainedCinematic/Scene_4_Toon.unity
+    guid: 94e6df01b39446d0bedc6ca8bedd93cd
+  - enabled: 1
+    path: Assets/Scenes/ChainedCinematic/Scene_5_PBR.unity
+    guid: 1b7fe31a04794179b9c8e3e4fa14dafe
+  - enabled: 1
+    path: Assets/Scenes/ChainedCinematic/Scene_6_Outline.unity
+    guid: cc4d5727fb10413fb0a724535f7bf089
+  - enabled: 1
+    path: Assets/Scenes/ChainedCinematic/Scene_7_Snow.unity
+    guid: e197928bc3c9455d9e18b5d80d9a754f
+  - enabled: 1
+    path: Assets/Scenes/Parcial2.unity
+    guid: c9cb9c46c30ebc440ac14ecfd82b4a0b
+  - enabled: 1
+    path: Assets/Snow Mountain/Scenes/SnowMountains.unity
+    guid: 80a7b5808b43ae245bc2c97ce3cfc017
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}

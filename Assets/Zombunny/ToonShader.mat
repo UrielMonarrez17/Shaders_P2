@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ToonShader
-  m_Shader: {fileID: 4800000, guid: 89751a4dc5395ee42be86cdfaf174bde, type: 3}
+  m_Shader: {fileID: 4800000, guid: 50198ef5bcb50c24489b32607d1403bc, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
